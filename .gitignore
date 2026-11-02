@@ -1,0 +1,7 @@
+# Dados gerados pelos scripts (mudam a cada execução)
+*.xlsx
+recolha_base_cache.json
+
+# Python
+__pycache__/
+*.pyc
